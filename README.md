@@ -3,7 +3,7 @@
 ## Descrição do Projeto
 Este repositório contém uma ferramenta de simulação desenvolvida em Python para calcular e comparar o Custo Total de Propriedade (TCO) de infraestruturas de TI. O algoritmo projeta cenários financeiros de curto, médio e longo prazo (até 10 anos), confrontando um ambiente físico local (*On-Premise*) com soluções de Nuvem Pública (Infraestrutura como Serviço - IaaS) da Amazon Web Services (AWS) e Microsoft Azure.
 
-Este projeto foi desenvolvido como parte integrante de um Trabalho de Conclusão de Curso (TCC) focado na análise de viabilidade financeira e eficiência energética para empresas de médio porte que utilizam o ERP TOTVS Protheus.
+Este projeto foi desenvolvido como parte integrante de um artigo da disciplina de Metodologia Científica focado na análise de viabilidade financeira e eficiência energética para empresas de médio porte que utilizam o ERP TOTVS Protheus.
 
 ## Funcionalidades Principais
 * Cálculo de depreciação contábil e obsolescência de hardware (ciclos de 5 anos).
